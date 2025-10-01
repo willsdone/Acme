@@ -8,6 +8,7 @@ node_modules/
 # Environment variables
 .env.local
 .env.*.local
+.env
 
 # npm package manager cache
 .npm/
